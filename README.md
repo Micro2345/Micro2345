@@ -18,7 +18,7 @@
 - 🎓 I'm currently studying at **SMK NEGERI 2 TEGAL**
 - 🌱 I'm currently learning **Network Engineering, Cloud, and Web Fundamentals**
 - 🤝 I'm looking to collaborate on **any other student's project**
-- 📂 All of my projects are available on **[GitHub](https://Micro2345)**
+- 📂 All of my projects are available on **[GitHub](https://github.com/GANTI_USERNAME_GITHUB)**
 - 📫 How to reach me: **rizqabiyyu@gmail.com**
 - ⚡ Fun fact: **I like traveling and hanging out with my friends ("Prenn")**
 
@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Micro2345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro2345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Micro2345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micro2345&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micro2345&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Micro2345&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
