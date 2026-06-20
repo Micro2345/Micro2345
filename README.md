@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RIZQ ABIYYU FARRAS</h1>
-<h3 align="center">A Student want to be Developers.</h3>
+<h3 align="center">A Student who has a hobby in the field of technology.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micro2345" alt="micro2345" /></a> </p>
 
-- 🔭 I’m currently Study at **SMP IHSANIYAH TEGAL**
+- 🔭 I’m currently Study at **SMK NEGERI 2 TEGAL**
 
-- 🌱 I’m currently learning **PYTHON & MONGO DB**
+- 🌱 I’m currently learning **PYTHON & NETWORK ENGENEERING**
 
 - 👯 I’m looking to collaborate on **Any other's student**
 
